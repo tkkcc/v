@@ -15,7 +15,7 @@
 [pnzhost](https://harmony.pnzhost.com)
 ~~[hiformance](https://my.hiformance.com)~~
 ### 20190310更新
-[一键配置](https://github.com/tkkcc/vps/#readme) [get start](/README)
+[一键配置](/ins) [get start](/main)
 
 
 
